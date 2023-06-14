@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-gcc -o accio.exe build/lex.yy.c  build/y.tab.c   

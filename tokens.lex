@@ -8,6 +8,9 @@
 %%
 "priori" { return PRIORITOKEN; }
 "patronum" { return PATRONUMTOKEN; }
+"spell" { return SPELLTOKEN; }
 
+"grimoire()" { return GRIMOIRETOKEN; }
 "finite()" { return FINITETOKEN; }
+. { yylval.str = strdup(yytext); return STRING; }
 %%
