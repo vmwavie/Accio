@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="./git/assets/logo.png" alt="delegua" width="auto" height="130px">
+  <img src="./git/assets/logo.png" alt="accio" width="auto" height="130px">
   <h3 align="center">Language Accio</h3>
   <p align="center">
     Programming Language that replicates a dialect used in harry potter spells, that's right a language of harry potter.
